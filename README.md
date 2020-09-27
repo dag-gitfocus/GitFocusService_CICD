@@ -10,7 +10,7 @@ Steps to Setup
 1. Clone the repository
 ------------------------
 
-==> https://github.com/dag-gitfocus/GitFocus_Service.git
+==> https://github.com/dag-gitfocus/GitFocusService_CICD.git
 
 2. Configure PostgreSQL
 -----------------------
